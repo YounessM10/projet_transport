@@ -1,5 +1,5 @@
 # GROUPE 7 : MOSTEFAOUI Youness, HACHANI Wail, CONDUCHE Thomas, GHANDRICHE Yani
-## Video: https://drive.google.com/drive/folders/1eP861hquNBVkahO0Mc_Ow-F0RYC96d-l?usp=sharing
+## Vidéo: https://drive.google.com/drive/folders/1eP861hquNBVkahO0Mc_Ow-F0RYC96d-l?usp=sharing
 
 # Explication de l'ETL
 
